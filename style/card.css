@@ -1,0 +1,24 @@
+.card{
+    width: 500px;
+   padding: 10px;
+  
+   border-radius: 10px ;
+   border: 2px solid black;
+  
+ 
+    
+    }
+.card img{
+    width: 100%;
+    border-radius: 10px;
+}
+.card h3{
+     font-size: 1.25em;
+    font-style: italic;
+}
+.card :hover{
+    background-color: aquamarine;
+}
+body{
+    background-color: aquamarine;
+}
