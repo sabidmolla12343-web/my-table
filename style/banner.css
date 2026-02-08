@@ -1,0 +1,20 @@
+.hero-container{
+    background-color: beige;
+    display: flex;
+    padding: 25px;
+    font-size: 4em;
+    align-items: center;
+    gap: 2px;
+}
+.hero-container img{
+    width: 500px;
+height: 500px; ;
+}
+body{
+    background-color: #ffe4c4;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+h2{
+    display: inline;
+}

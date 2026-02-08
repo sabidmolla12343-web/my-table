@@ -1,0 +1,6 @@
+nav li{
+    text-decoration: none;
+    list-style: none;
+    background-color: rgb(0, 162, 255);
+    display: inline;
+}
